@@ -1,0 +1,3 @@
+Aum sri sairam
+Hello, This is hadoop programming class.
+This program is Word Count using Map Reduce.
