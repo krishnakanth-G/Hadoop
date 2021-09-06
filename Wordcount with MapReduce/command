@@ -1,5 +1,0 @@
-hadoop jar /home/huser/hadoop/hadoop-3.2.2/share/hadoop/tools/lib/hadoop-streaming-3.2.2.jar 
--file /home/huser/wordcount/mapper.py -mapper mapper.py 
--file /home/huser/wordcount/reducer.py -reducer reducer.py 
--input /wordcount/input 
--output /wordcount/output
