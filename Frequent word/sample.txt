@@ -1,0 +1,5 @@
+number of lines
+number of words
+number of characters
+most frequent non whitespace characters
+most frequent words
